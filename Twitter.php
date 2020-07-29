@@ -11,10 +11,10 @@ class Tweets{
 
         $content = '';
         $settings = array(
-            'oauth_access_token' => "25149590-QHAOa0MdNeWUW5LmQ2m60WtK53lCc91t9oKhHbgGd",
-            'oauth_access_token_secret' => "8l3kJJdsEw6zuxdkz3JdMwNNNgpfQoOJaaEOwEFEOq4aa",
-            'consumer_key' => "CWezp582B6fDkN4DpQnLBg",
-            'consumer_secret' => "auW27yBE6k8pWcs5G8W81fzwZ7A4WwSTQmf15wiqty0"
+            'oauth_access_token' => "your private key, i cant put mine here",
+            'oauth_access_token_secret' => "your private key, i cant put mine here",
+            'consumer_key' => "your private key, i cant put mine here",
+            'consumer_secret' => "your private key, i cant put mine here"
         );
 
         $url = "https://api.twitter.com/1.1/statuses/user_timeline.json";
